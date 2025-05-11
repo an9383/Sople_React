@@ -1,8 +1,0 @@
-setInterval(() => {
-   ReactDOM.render(
-       <React.StrictMode>
-         <Clock />
-       </React.StrictMode>,
-      document.getElementById('root')
-        );
-    },1000);
