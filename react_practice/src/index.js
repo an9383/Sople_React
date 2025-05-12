@@ -20,7 +20,7 @@ import Blocks from './chapter_15/Blocks';
 
 ReactDOM.render(
   <React.StrictMode>
-    <DarkOrLight />
+    <AttendanceBook />
   </React.StrictMode>,
   document.getElementById('root')
 );
